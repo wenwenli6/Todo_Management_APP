@@ -1,9 +1,9 @@
 # Todo_Management_APP
 This APP aims to help users manage todo-lists.
-## Required language and tools
+## Required languages and tools
 |    | Frontend | Bacckend |
 |---------|---------|---------|
-| language | Javascript | Java |
+| Language | Javascript | Java |
 | IDE | VScode| eclipse |
 | Framework | React | Spring Boot |
 
